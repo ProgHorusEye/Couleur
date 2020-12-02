@@ -1,2 +1,2 @@
 # Couleur
-## Ecercice de cours en C# et Winforms
+## Exercice de cours en C# et Winforms
